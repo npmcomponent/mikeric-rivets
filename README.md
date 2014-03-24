@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [mikeric/rivets](http://github.com/mikeric/rivets). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/mikeric-rivets`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Rivets.js
 
 Rivets.js is a DOM-based templating system that sits ontop of a configurable component architecure. It let’s you build model-driven views (MDV) using declarative two-way data binding. If used properly it can reduce code complexity in your app by elimating the need to manually update the DOM, letting you focus more on your application’s data and domain logic.
